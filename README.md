@@ -1,24 +1,23 @@
 # Master's Thesis Summary
+# 📉 Why Hardware Startups Fail
 
-**Title: Why Hardware Startups Fail**
+**🔍 An Exploratory Study through Secondary Data Analysis**
 
-**An Exploratory Study through Secondary Data Analysis**
+👨‍🎓 **Author:** Heider Jeffer
 
-**Author:** Heider Jeffer
+🏛️ **University:** Free University of Bozen-Bolzano, Faculty of Computer Science
 
-**University:** Free University of Bozen-Bolzano, Faculty of Computer Science
+👩‍🏫 **Supervisor:** Prof. Xiaofeng Wang
 
-**Supervisor:** Prof. Xiaofeng Wang
+📅 **Submitted:** February 2022
 
-**Submitted:** February 2022
+📧 **Contact:** [hjeffer@unibz.it](mailto:hjeffer@unibz.it) | [hheider.jeffer@gmail.com](mailto:hheider.jeffer@gmail.com)
 
-📧 [hjeffer@unibz.it](mailto:hjeffer@unibz.it) | [hheider.jeffer@gmail.com](mailto:hheider.jeffer@gmail.com)
+📂 **[Project Repository](https://github.com/HeiderJeffer/Gilgamesh)**
 
-📂 [Project Repository](https://github.com/HeiderJeffer/Gilgamesh)
+📽 **[Presentation (PPTX)](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)**
 
-📽 [Presentation (PPTX)](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)
-
-📄 [Full Thesis (PDF)](https://drive.google.com/file/d/1bZvNbYk2SI09rM9WKZpv-oSZDr06BuSe/view?usp=sharing)
+📄 **[Full Thesis (PDF)](https://drive.google.com/file/d/1bZvNbYk2SI09rM9WKZpv-oSZDr06BuSe/view?usp=sharing)**
 
 
 ## 🧠 Abstract
