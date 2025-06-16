@@ -3,11 +3,11 @@
 
 **🔍 An Exploratory Study through Secondary Data Analysis**
 
-👨‍🎓 **Author:** Heider Jeffer
+👨‍🎓 **Author:**  [Heider Jeffer](https://github.com/HeiderJeffer)
+
+👩‍🏫 **Supervisor:** [Prof. Xiaofeng Wang](https://www.unibz.it/en/faculties/engineering/academic-staff/person/31445-xiaofeng-wang)
 
 🏛️ **University:** Free University of Bozen-Bolzano, Faculty of Computer Science
-
-👩‍🏫 **Supervisor:** Prof. Xiaofeng Wang
 
 📅 **Submitted:** February 2022
 
