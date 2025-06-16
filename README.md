@@ -1,26 +1,19 @@
 # Master's Thesis Summary
-# 📉 Why Hardware Startups Fail
+# Why Hardware Startups Fail
 
 **🔍 An Exploratory Study through Secondary Data Analysis**
 
-👨‍🎓 **Author:**  [Heider Jeffer](https://github.com/HeiderJeffer)
-
-👩‍🏫 **Supervisor:** [Prof. Xiaofeng Wang](https://www.unibz.it/en/faculties/engineering/academic-staff/person/31445-xiaofeng-wang)
-
-🏛️ **University:** Free University of Bozen-Bolzano, Faculty of Computer Science
-
-📅 **Submitted:** February 2022
-
-📧 **Contact:** [hjeffer@unibz.it](mailto:hjeffer@unibz.it) | [hheider.jeffer@gmail.com](mailto:hheider.jeffer@gmail.com)
-
-📂 **[Project Repository](https://github.com/HeiderJeffer/Gilgamesh)**
-
-📽 **[Presentation (PPTX)](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)**
-
-📄 **[Full Thesis (PDF)](https://drive.google.com/file/d/1bZvNbYk2SI09rM9WKZpv-oSZDr06BuSe/view?usp=sharing)**
+* **Author:**  [Heider Jeffer](https://github.com/HeiderJeffer)
+* 👩‍🏫 **Supervisor:** [Prof. Xiaofeng Wang](https://www.unibz.it/en/faculties/engineering/academic-staff/person/31445-xiaofeng-wang)
+* **University:** Free University of Bozen-Bolzano, Faculty of Computer Science
+* **Submitted:** February 2022
+* **Contact:** [hjeffer@unibz.it](mailto:hjeffer@unibz.it) | [hheider.jeffer@gmail.com](mailto:hheider.jeffer@gmail.com)
+* **[Project Repository](https://github.com/HeiderJeffer/Gilgamesh)**
+* **[Presentation (PPTX)](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)**
+* **[Full Thesis (PDF)](https://drive.google.com/file/d/1bZvNbYk2SI09rM9WKZpv-oSZDr06BuSe/view?usp=sharing)**
 
 
-## 🧠 Abstract
+## Abstract
 
 This research explores the disproportionately high failure rate of hardware startups compared to their software counterparts. Using an exploratory, qualitative approach grounded in secondary data—including CB Insights reports, blogs, and founder interviews—the study uncovers **17 recurring failure factors**, grouped into five key themes:
 
@@ -34,7 +27,7 @@ In addition to its findings, the project contributes an **open-source framework 
 
 
 
-## 🔍 Research Overview
+## Research Overview
 
 ### Objectives
 
@@ -50,7 +43,7 @@ In addition to its findings, the project contributes an **open-source framework 
 
 
 
-## 📊 Key Findings
+## Key Findings
 
 ### **Thematic Categories & Failure Factors**
 
@@ -86,13 +79,13 @@ In addition to its findings, the project contributes an **open-source framework 
 
 
 
-## 💬 Discussion
+## Discussion
 
 Hardware startups face **unique challenges**: long development cycles, manufacturing risks, and heavy upfront costs. These are rarely addressed by mainstream entrepreneurial frameworks. By systematically synthesizing gray literature, this work provides actionable insights and a **replicable research method** that can be expanded or adapted in future studies.
 
 
 
-## ⚠️ Limitations
+## Limitations
 
 * Biases in self-reported postmortems
 * Western-centric data
@@ -100,7 +93,7 @@ Hardware startups face **unique challenges**: long development cycles, manufactu
 
 
 
-## 🧩 Contributions
+## Contributions
 
 * A categorized taxonomy of failure causes
 * Methodological blueprint for qualitative research
@@ -109,7 +102,7 @@ Hardware startups face **unique challenges**: long development cycles, manufactu
 
 
 
-## 🔭 Future Work
+## Future Work
 
 * NLP-enhanced data mining
 * Inclusion of multimedia sources (e.g., podcasts, webinars)
