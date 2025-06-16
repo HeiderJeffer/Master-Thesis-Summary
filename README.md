@@ -1,10 +1,10 @@
 # Master's Thesis Summary
 # Why Hardware Startups Fail
 
-**🔍 An Exploratory Study through Secondary Data Analysis**
+**An Exploratory Study through Secondary Data Analysis**
 
 * **Author:**  [Heider Jeffer](https://github.com/HeiderJeffer)
-* 👩‍🏫 **Supervisor:** [Prof. Xiaofeng Wang](https://www.unibz.it/en/faculties/engineering/academic-staff/person/31445-xiaofeng-wang)
+* **Supervisor:** [Prof. Xiaofeng Wang](https://www.unibz.it/en/faculties/engineering/academic-staff/person/31445-xiaofeng-wang)
 * **University:** Free University of Bozen-Bolzano, Faculty of Computer Science
 * **Submitted:** February 2022
 * **Contact:** [hjeffer@unibz.it](mailto:hjeffer@unibz.it) | [hheider.jeffer@gmail.com](mailto:hheider.jeffer@gmail.com)
